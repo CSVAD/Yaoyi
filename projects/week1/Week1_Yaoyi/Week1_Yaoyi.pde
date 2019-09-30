@@ -50,3 +50,5 @@ strokeWeight(10);
 
 curve(width/2 - 200 - 10, height/2 + 150 - 800, width/2 - 200, height/2 + 150,
  width/2 + 200, height/2 + 150, width/2 + 200 + 10, height/2 + 150 - 800);
+ 
+ save("E:/Courses/CS291I/Yaoyi_master/projects/week1/Week1_Yaoyi/myself.jpg");
