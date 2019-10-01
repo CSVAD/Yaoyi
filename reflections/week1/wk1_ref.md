@@ -9,4 +9,32 @@ I have conducted research as well as AR implementation about applying this lates
 However, similar to the fact that books and paintings are capable of carrying culture with them and spread  to the whole world, using data to describe them would be even easier than books and paintings. So I believe that computer technology will be indispensable to art and design in the future.  
 
 ### 4 Symbols
-TBC
+
+#### Notes
+
+In symbols we have the ultimate tools of abstraction.
+
+Symbolic structures apply the principles of formal reasoning to many more kinds of operands. 
+
+Any markings made for explicit purpose of representation record keeping, or transmittal could be understood as notation.
+
+Today we might say that programming language differs from natural language mainly in its basis for sematics, that is, in the umambiguously declared meanings of words. (I would say mostly true, perhaps.)
+
+According to Goodman, a symbol system is the correspondence by which meanings comply with characters in a symbol scheme. 
+
+The most elegant instances of formal notation occurs in music.( Strongly agree. ）
+
+We lack any real definition of what constitutes a work painting.
+
+The work of craft is neither the design nor the individual artifact: it is the tradition of very production. It is the presence of many objects identical in their conception, and interchangeable in their use, but unique in their execution.
+
+The nature of notation might invite us to employ iterations and conditionals, which together with variables and their relations would turn scripts and scores into true programs.
+
+The basic idea behind object orientation is to provide a single identity for any arbitrary set of properties and capacities.
+
+Abstract data types have been a big advance, because like Vieta’s alphabetic symbols, they allow semantic ideas to be manipulated independently of their actual compliants.
+
+All languages can be studied in terms of formal structure. ( Maybe. But I would say this is not the case for natural languages.)
+
+Does it  suggest that creative computation overcome the traditional separation between tool users and symbol users?
+(I would say no. Creation through symbols or symbolic ways like computer generated will not be the same with traditional creation. I think they are totally different styles of art and creation.)
