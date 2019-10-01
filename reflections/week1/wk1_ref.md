@@ -8,4 +8,5 @@ I have conducted research as well as AR implementation about applying this lates
 
 However, similar to the fact that books and paintings are capable of carrying culture with them and spread  to the whole world, using data to describe them would be even easier than books and paintings. So I believe that computer technology will be indispensable to art and design in the future.  
 
-
+### 4 Symbols
+TBC
