@@ -1,3 +1,13 @@
-# WK 3 Reflection
+# WK 3 Reflection: Parameterization
 
-###  Parameterization
+### Design Galleries: A General Approach to Setting Parameters for Computer Graphics and Animation
+
+It is surprising for me that this paper is from SIGGRAPH 1997, but some essential ideas inside this paper are still problems to be solved in computer graphics today. 
+
+First the author mentioned two problems of other graphics processes at that time, which are processing speed and output quality. These are still research topics in computer graphics today. Also, the author mentioned the importance of setting lighting parameters in image rendering. Light staging is absolutely crucial to current film and animation production today. However, because of hardware improvement, some of the methods are useful at that time, but no longer useful now.  The author mentioned “High-quality image rendering (e.g., raytracing or radiosity) is costly”, so the random light generation and dispersion process will no longer be the solution to current rendering problems. Also, opacity and color transfer functions are another problem to be solved at that time. But it is no longer a problem in terms of current algorithm development. GPU might be leading the solution to path tracing efficiency. 
+
+But, I cannot say this paper is not worth reading. Though rendering algorithms are developing, the ultimate target of creating better renderer is to provide users with a better engine to use. This paper provided us a good idea about how to think for the users and how to provide a better interface. This is how we should think about when developing tools.
+
+### Design as Exploration: Creating Interface Alternatives through Parallel Authoring and Runtime Tuning 
+
+This paper reminds me of a course project that we were required to implement a Maya plugin for artists. It was really hard for me to think about what other people needed without conducting surveys. It was like imagining people’s need at that time. After that, I conducted another project about applying AR to art promotion. The interface was designed by an artist. The project was iterated a lot of times until the investors of this project said this is not what they want. This paper and my personal experience made me think about why they rejected what I have done. Why did they reject the interface and the plan they proposed themselves? I think there are a lot of suggestions that I could propose at that time which combined the ideas from computer science and art. Also, there existed a lot of factors I should consider both computer science and art. One of the crucial points was that, what parameters should I expose to the artists? Since they accepted an extremely simple version of this project which might only take 2 hours to implement at last. On the contrary, I spent almost 10 months on my project. The problem of my project was that there are too many parameters and too many changes that the users can make, which was too difficult for users to get started. The artists actually did not need to understand that much knowledge. So I think this paper is quite useful and provides me a great chance to retrospect.
