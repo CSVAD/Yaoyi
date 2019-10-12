@@ -13,6 +13,6 @@ Creating those wallpapers are generally repeating a basic pattern. The basic pat
 
 Those images are based on the same pattern painted by myself, but with some slightly color balance, brightness and saturation changes. 
 
-The reference image of those patterns is ![reference image](https://github.com/CSVAD/Yaoyi/blob/master/projects/week2/wk2/20191008100340.jpg) Image credit to Weibo @动脉影.
+The reference image of those patterns is ![reference image](https://github.com/CSVAD/Yaoyi/blob/master/projects/week2/wk2/20191008100340.jpg) Image credit to Weibo [@动脉影](https://www.weibo.com/dongmaiying?refer_flag=1001030103_&is_hot=1#_rnd1570839270349).
 
 First, we calculate the repeating pattern of the first and last several rows. And then, we calculate the repeating pattern of the first and last several columns. The some columns should not overlap with those rows that has already painted. Also, there are 3 layers of patterns. All of them are generated with the same function, so it is crucial to make the generating function feasible for all 3 layers. Therefore the input of the function should be based on various kinds of situations. When we change the parameters of those functions, there will be different results, as shown in the folder. 
