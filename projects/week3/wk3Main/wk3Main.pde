@@ -1,7 +1,6 @@
 import controlP5.*;
 ControlP5 cp5;
 
-PImage img;
 
 float speed;
 float size;
@@ -20,23 +19,19 @@ void setup(){
   cp5 = new ControlP5(this);
   
   speedSlider = cp5.addSlider("speed")
-    .setPosition(1050,0)
+    .setPosition(1050,150)
     .setSize(300,50)
-    .setRange(0.1, 10.0)
+    .setRange(0.1, 5.0)
     .setValue(1.0)
     ;
     
   sizeSlider = cp5.addSlider("size")
-    .setPosition(1050,100)
+    .setPosition(1050,300)
     .setSize(300,50)
     .setRange(1.0, 3.0)
     .setValue(1.0)
     ;
     
-    
-    background(187, 75, 55);
-    //img = loadImage("ref3.jpg");
-    //image(img, 0, 0, 1000, height);
     lights();
     
     initFrame = frameCount;
@@ -46,7 +41,7 @@ void setup(){
 void draw(){
   
   clear();
-
+  background(187, 75, 55);
   for(int i = 0 ; i < amount ; i++)
   {
     strokeWeight(0);
