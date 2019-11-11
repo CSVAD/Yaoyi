@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;processing-library-template-VElysianP&apos; to &apos;Yaoyi-WK7-Processing&apos;&#x0D;&#x0A;- Original element: &apos;processing-library-template-VElysianP&apos;&#x0D;&#x0A;- Renamed element: &apos;processing-library-template-VElysianP&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;processing-library-template-VElysianP&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=processing-library-template-VElysianP" name="Yaoyi-WK7-Processing" references="true" stamp="1573500959634" version="1.0"/>
+</session>
