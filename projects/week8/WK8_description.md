@@ -1,3 +1,3 @@
 #  WK8 description
 
-I would like to experiment with patterns with repeating and changing this time. Also, I would like to make my work easy for the 
+I would like to experiment with patterns with repeating and changing this time. Also, I would like to make my work easier for the plotter to paint. So I only experimented with simple rectangles and circles. For the idea of using plotter instead of painting manually, I would like to find out and apply what the plotters and computers are good at. That is the reason I decide to work on accurate shapes. Also, I think it is a great idea for people to combine plotter and manual painting. I believe this will bring about creativity based on constrians of patterns. I am looking forward to see more possibilities in the future.  
